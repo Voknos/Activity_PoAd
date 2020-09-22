@@ -19,7 +19,7 @@
 * Útil em cenários em que se tem gerador automático de código.
 
 ## 5. **Structure:**
-![TemplateMethod](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/TemplateMethod.png)
+![TemplateMethod](https://github.com/Voknos/Activity_PoAd/blob/master/Template%20Method/TemplateMethod.png)
 
 ## 6. **Participants:**
 
