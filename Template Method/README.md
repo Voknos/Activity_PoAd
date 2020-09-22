@@ -31,7 +31,7 @@
 * Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass
 
 ## 7. **Sample Code:**
-*Exemplo do TemplateMethod de uma calculadora que realizar a Soma e a Subtração de valores
+* Exemplo do TemplateMethod de uma calculadora que realizar a Soma e a Subtração de valores
 
 [github.com/Voknos/Activity_PoAd/tree/master/Template%20Method/templateMethodUlt](https://github.com/Voknos/Activity_PoAd/tree/master/Template%20Method/templateMethodUlt)
 
