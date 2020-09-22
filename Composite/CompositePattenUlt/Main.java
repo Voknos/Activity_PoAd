@@ -1,30 +1,19 @@
-class Main {
-  public static void main(String[] args) 
-    {
-        try {
-          // Creating a component tree
-          Component component = new FolderItem("Root");
-  
-          // Adding all accounts of a customer to component
-          component.add(new FileItem("DA001", 100));
-          component.add(new FileItem("DA002", 150));
+public class Main {
+  public static void main(String[] args) {
+    Line l1 = new Line();
+    l1.add(new Cell("João"));
+    l1.add(new Cell("Maria"));
+    l1.add(new Cell("José"));
 
-          // Creating a component tree
-          Component subFolder = new FolderItem("subFolder");
-          component.add(subFolder);
-  
-          subFolder.add(new FileItem("SA001", 200));
-          subFolder.add(new FileItem("SA002", 100));
-          subFolder.add(new FileItem("SA003", 300));
-  
-          // getting composite balance for the customer
-          float totalSize = component.getSize();
-          System.out.println("Total Size : " + totalSize);
+    Line l2 = new Line();
+    l2.add(new Cell("10"));
+    l2.add(new Cell("10"));
+    l2.add(new Cell("7.5"));
 
-          component.list();
-        }
-        catch (Exception e) {
-          e.printStackTrace();
-        }
-    }
+    Table t = new Table();
+    t.add(l1);
+    t.add(l2);
+    t.print();
+  }
+}
 }
