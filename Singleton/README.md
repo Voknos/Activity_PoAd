@@ -33,5 +33,9 @@
 
 ## 7. **Sample Code:**
 
-[Singleton](https://github.com/Voknos/Activity_PoAd/tree/master/Singleton/Singleton)
-[SingletonArquivo](https://github.com/Voknos/Activity_PoAd/tree/master/Singleton/SingletonArquivo)
+* Neste código é cria uma única instância de um novo objeto.
+1. [github.com/Voknos/Activity_PoAd/tree/master/Singleton/Singleton](https://github.com/Voknos/Activity_PoAd/tree/master/Singleton/Singleton)
+
+* Neste código é implementado uma classe que manipula um arquivo e aplicando o singleton garante que não havera mais de uma instância dessa classe no programa
+ 2. [github.com/Voknos/Activity_PoAd/tree/master/Singleton/SingletonArquivo](https://github.com/Voknos/Activity_PoAd/tree/master/Singleton/SingletonArquivo)
+ 
