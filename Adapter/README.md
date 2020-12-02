@@ -38,5 +38,5 @@
 * É quem adapta a interface do Adeptee ao Target usando pela aplicação. 
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Adapter/AdapterPatterm/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Adapter/AdapterPatterm)
+1. [github.com/Voknos/Activity_PoAd/tree/master/Adapter/AdapterPatterm](https://github.com/Voknos/Activity_PoAd/tree/master/Adapter/AdapterPatterm)
 * Neste exemplo clássico, usamos uma classe de tomada de dois pinos se adapter a uma tomada de três pino.
